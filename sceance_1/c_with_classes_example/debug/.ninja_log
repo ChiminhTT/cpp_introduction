@@ -1,0 +1,7 @@
+# ninja log v5
+0	275	0	CMakeFiles/date.dir/src/main.cpp.o	1b2c944b1fa4606a
+1	119	0	build.ninja	ffd41eed7f52beb4
+0	642	0	CMakeFiles/date.dir/src/date.cpp.o	c5c60cdb9b46c231
+642	878	0	date	c9927ba951e3077f
+1	1140	0	CMakeFiles/date.dir/src/date.cpp.o	c5c60cdb9b46c231
+1140	1326	0	date	c9927ba951e3077f

@@ -7,7 +7,10 @@
 
 using uint = unsigned int;
 
-class MITStudent: public Person::MITPerson
+namespace Person
+{
+
+class MITStudent: public MITPerson
 {
 private:
   uint course_number = 0;
@@ -21,5 +24,7 @@ public:
              uint const& _course_number,
              int const& _year);
   void add_class(Class::Course const& new_class);
-  void display_profile() const; // Override
+//  void display_profile() const; // Override
 };
+
+}

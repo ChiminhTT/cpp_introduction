@@ -1,0 +1,21 @@
+# ninja log v5
+0	1015	0	CMakeFiles/polymorphism_example.dir/src/main.cpp.o	6dee328a88657e8e
+1015	1149	0	polymorphism_example	45ba58b474e90882
+0	14	0	clean	66591e4e747db2e9
+2	1277	0	CMakeFiles/polymorphism_example.dir/src/main.cpp.o	6dee328a88657e8e
+1278	1506	0	polymorphism_example	45ba58b474e90882
+31	1273	0	CMakeFiles/polymorphism_example.dir/src/main.cpp.o	6dee328a88657e8e
+1273	1483	0	polymorphism_example	45ba58b474e90882
+5	1280	0	CMakeFiles/polymorphism_example.dir/src/main.cpp.o	6dee328a88657e8e
+1280	1504	0	polymorphism_example	45ba58b474e90882
+4	1310	0	CMakeFiles/polymorphism_example.dir/src/main.cpp.o	6dee328a88657e8e
+1310	1506	0	polymorphism_example	45ba58b474e90882
+3	1217	0	CMakeFiles/polymorphism_example.dir/src/main.cpp.o	6dee328a88657e8e
+1217	1434	0	polymorphism_example	45ba58b474e90882
+1	599	0	CMakeFiles/polymorphism_example.dir/src/main.cpp.o	6dee328a88657e8e
+599	841	0	polymorphism_example	45ba58b474e90882
+0	14	0	clean	66591e4e747db2e9
+49	1369	0	CMakeFiles/polymorphism_example.dir/src/main.cpp.o	6dee328a88657e8e
+1369	1643	0	polymorphism_example	45ba58b474e90882
+20	1702	0	CMakeFiles/polymorphism_example.dir/src/main.cpp.o	6dee328a88657e8e
+1703	1961	0	polymorphism_example	45ba58b474e90882

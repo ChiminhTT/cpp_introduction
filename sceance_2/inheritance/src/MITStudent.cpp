@@ -1,5 +1,7 @@
 #include <MITStudent.h>
 
+using namespace Person;
+
 MITStudent::MITStudent(std::string const& _name,
                        Person::UID const& _puid,
                        Person::Address const& _address,
@@ -16,6 +18,7 @@ void MITStudent::add_class(Class::Course const& new_class)
   classes_taken.push_back(new_class);
 }
 
+/*
 void MITStudent::display_profile() const
 {
   std::cout << "-----------------------------\n";
@@ -31,6 +34,7 @@ void MITStudent::display_profile() const
 		std::cout << ">>> " << course.uid << " (course uid)" <<std::endl;
 		std::cout << ">>> " << course.name << " (course name)" <<std::endl;
 	}
-	
+
   std::cout << "-----------------------------\n";
 }
+*/

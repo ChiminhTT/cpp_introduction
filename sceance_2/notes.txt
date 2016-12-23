@@ -1,0 +1,7 @@
+// public inheritance
+explain "class Derived: public Base"
+
+// Different types of inheritance: single, multiple, multilevel
+>> Avoid multilevel inheritance (costly, hard to follow the code and understand)
+>> Inheritance is designed for very specific issues: don't use it for every thing
+>> Use of inheritance should be the exception not the norm

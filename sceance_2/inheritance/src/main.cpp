@@ -8,7 +8,7 @@ int main(int argc, char const *argv[])
   mit_person.display_profile();
 
   // Construct herited instance
-  auto const mit_student = MITStudent("paul", 134, "3 E Easton", 101, 2015);
+  auto const mit_student = Person::MITStudent("paul", 134, "3 E Easton", 101, 2015);
   mit_student.display_profile();
 
   return 0;
